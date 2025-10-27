@@ -1,4 +1,4 @@
-**Bank Account Simulation**
+## Bank Account Simulation
 
 ## Overview
 SimBanker is a console-based Java application that simulates real-world banking operations using Object-Oriented Programming (OOP) principles.
